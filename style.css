@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+  
+    
+}
+#myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+/* p{
+    background-color: aquamarine;
+color: black;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+max-width: max-content;
+border-radius: 10px;
+padding: 06px;
+}
+span{
+    color: red;
+    font-size: 22px;
+}
+#myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+} */
+
+.main{
+    border: 02px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    margin: 20px;
+    background-color: white;
+    height: 380px;
+}
+span{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+   
+}
+.hh{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+.option{
+    display: flex;
+    
+    padding-left: 20px;
+    margin-top: 25px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-flow: column ;
+    
+    
+}
+
+
+.xx{
+    margin: 08px;
+
+}
+label{
+   border: 02px solid red;
+border-radius: 10px;
+background-color: black;
+justify-content: center;
+align-items: center;
+padding: 06px;
+color: white;
+
+
+}
+label:hover{
+    background-color: greenyellow;
+    border: 04px solid black;
+    color: black;
+}
+
+.d{
+    position: fixed;
+    
+    width: 280px;
+}
+/* button disable ===============================================================*/
+#fg{
+    display: none;
+
+
+}
+#ff{
+    display: none;
+
+
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: serif;
+    color: white;
+    font-weight: bolder !important;
+
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-family:  serif;
+    color: white;
+    font-weight: bolder !important;
+    text-decoration: underline;
+    
+}
+#wwww{
+    display: flex;
+    justify-content: center;
+    
+}
